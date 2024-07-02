@@ -28,4 +28,4 @@ npx expo start
 ## Ver mais sobre mim
 
 - Github: https://github.com/MauroTwister475/profile
-- Linkedin: https://www.linkedin.com/in/mauro-raimundo-dinis-00475526a/
+- Linkedin: https://www.linkedin.com/in/mauro-dinis-raimundo-00475526a/
