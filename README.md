@@ -5,9 +5,8 @@
    <img src="./assets/final.png" width="300" heigth="100" >
 
 ## Tecnologias usadas
-
-  - `React Native`
-  - `Expo`
+  - [React Native](https://reactnative.dev/)
+  - [Expo](https://docs.expo.dev/)
 
 ## Como Rodar localmente
 
